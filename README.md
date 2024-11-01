@@ -11,3 +11,6 @@ Github电脑（PC或MAC版）版链接：https://github.com/lyswhut/lx-music-des
 Github手机（Android）版链接：https://github.com/lyswhut/lx-music-mobile
 不用怀疑，lxmusic开发者洛雪无痕已经说明软件不支持iphone（ios）手机
 官网链接：https://lxmusic.toside.cn/
+如果你是新手，可以去抖音查找教程
+我的抖音号：
+guomou36360
