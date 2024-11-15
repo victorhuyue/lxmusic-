@@ -13,6 +13,5 @@
 - [Android安卓下载链接](https://github.com/lyswhut/lx-music-mobile)
 - IOS：lxmusic开发者洛雪无痕已经说明软件不支持iphone（ios）手机
 
-# 视频教程
-如果你不懂如何使用，请观看我制作的视频教程。
-我的抖音号：guomou36360
+# 教程
+如果你不懂如何使用，请查看网盘内的使用教程
