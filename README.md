@@ -5,7 +5,7 @@
 
 感谢您使用！
 
-本人仅提供他人制作的音源，如有侵犯，请联系我 [guoyue201010090816@outlook.com](mailto:guoyue201010090816@outlook.com)
+本人仅提供他人制作的音源，如有侵犯或提供音源，请联系我 [guoyue201010090816@outlook.com](mailto:guoyue201010090816@outlook.com)
 
 # LX Music
 - [官网](https://lxmusic.toside.cn/)
