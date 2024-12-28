@@ -10,6 +10,8 @@
 如果你想提供音源或给出意见，你可以发邮件至：
 [guoyue201010090816@outlook.com](mailto:guoyue201010090816@outlook.com)
 
+注：本人仅在每周五，周六，周日查看并回复邮件，尽情谅解
+
 # LX Music
 - [官网](https://lxmusic.toside.cn/)
 - [Win和Mac下载链接](https://github.com/lyswhut/lx-music-desktop?tab=readme-ov-file#readme)
