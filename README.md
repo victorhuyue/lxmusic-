@@ -5,6 +5,8 @@
 
 感谢您使用！
 
+当你遇见问题时，请先查看(https://github.com/guoyue2010/lxmusic-/releases/tag/%E5%AF%B9%E4%BA%8E%E9%9F%B3%E6%BA%90%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E7%AD%94)
+
 本人仅提供他人制作的音源，如有侵犯，请联系我 [guoyue201010090816@outlook.com](mailto:guoyue201010090816@outlook.com)
 
 如果你想提供音源或给出意见，你可以发邮件至：
