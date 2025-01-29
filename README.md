@@ -19,7 +19,7 @@
 - [官网](https://lxmusic.toside.cn/)
 - [Win和Mac下载链接](https://github.com/lyswhut/lx-music-desktop?tab=readme-ov-file#readme)
 - [Android安卓下载链接](https://github.com/lyswhut/lx-music-mobile)
-- IOS或HarmonyOS Next：lxmusic开发者洛雪无痕已经说明软件不支持iphone（ios）或搭载HarmonyOS Next系统的华为手机
+- IOS或HarmonyOS Next：lxmusic开发者洛雪无痕已经说明软件不支持搭载ios系统的苹果（iPhone）手机或搭载HarmonyOS Next的华为手机
 
 # 教程
 如果你不懂如何使用，请查看网盘内的使用教程
