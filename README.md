@@ -2,6 +2,7 @@
 下载链接：[https://github.com/guoyue2010/lxmusic-/releases](https://github.com/guoyue2010/lxmusic-/releases)
 > 音源仅对洛雪音乐最新版有效
 > 请支持正版
+
 安装包我目前会持续更新windows的两个版本、MAC版本、安卓版本
 >麒麟UOS版请前往官网下载，我仅有时更新
 
