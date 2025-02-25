@@ -1,7 +1,7 @@
 # LX Music音源（最新最全）
 下载链接：[https://github.com/guoyue2010/lxmusic-/releases](https://github.com/guoyue2010/lxmusic-/releases)
 
-国内人员下载建议前往CSDN：[CSDN下载链接](https://download.csdn.net/download/guoyue1/90415489)
+国内人员下载建议前往GitCode：[GitCode](https://gitcode.com/guoyue2010/lxmusic-)
 > 音源仅对洛雪音乐最新版有效
 > 请支持正版
 
