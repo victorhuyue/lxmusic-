@@ -7,8 +7,9 @@
 
 QQ交流群：704034242
 
-- 当你遇见问题时，请先查看
-[关于音源问题的解答](https://github.com/guoyue2010/lxmusic-/releases/tag/%E5%AF%B9%E4%BA%8E%E9%9F%B3%E6%BA%90%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E7%AD%94)
+- 遇见问题请发送邮件至[guoyue201010090816@outlook.com](mailto:guoyue201010090816@outlook.com)或加QQ群
+
+基本问题查看请至：[关于音源的解答](https://gitub.com/guoyue2010/lxmusic-/releases/%E5%AF%B9%E4%BA%8E%E9%9F%B3%E6%BA%90%E7%9A%84%E8%A7%A3%E7%AD%94)
 
 - 想查看那些音源可以使用吗：[这里](https://github.com/guoyue2010/LXyy/releases)会告诉你答案
 
