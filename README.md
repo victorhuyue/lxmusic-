@@ -4,4 +4,5 @@
 
 - 国内用户下载优先前往[GitCode](https://gitcode.com/guoyue2010/lxmusic-)
 
-版本信息：<a href="https://github.com/guoyue2010/lxmusic-/releases"><img src="https://img.shields.io/github/release/guoyue2010/lxmusic-" alt="Release version"></a>
+- 版本信息：<a href="https://github.com/guoyue2010/lxmusic-/releases"><img src="https://img.shields.io/github/release/guoyue2010/lxmusic-" alt="Release version"></a>
+> --------------------------------------------------------------------
