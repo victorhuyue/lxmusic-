@@ -14,7 +14,10 @@
 
 # 关于邮箱回复
 本版块是解析邮箱回复邮件的
-![屏幕截图 2025-04-19 102527](https://github.com/user-attachments/assets/5c31495c-76ff-467c-bacc-43c6617995cc)
+![屏幕截图 2025-04-19 104012](https://github.com/user-attachments/assets/aff9eca6-9e71-4673-8122-06bc028c3ccb)
+![屏幕截图 2025-04-19 104749](https://github.com/user-attachments/assets/5e3716e4-bd58-4bc0-9d5c-83ff0516810b)
+
+
 
 # 关于LX Music
 - [官网](https://lxmusic.toside.cn/)
