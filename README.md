@@ -14,7 +14,8 @@
 
 # 关于邮箱回复
 本版块是解析邮箱回复邮件的
-![屏幕截图 2025-04-19 104012](https://github.com/user-attachments/assets/aff9eca6-9e71-4673-8122-06bc028c3ccb)
+![屏幕截图 2025-04-19 104841](https://github.com/user-attachments/assets/327cca57-7e16-4b19-9cfd-ec6072ac966b)
+
 ![屏幕截图 2025-04-19 104749](https://github.com/user-attachments/assets/5e3716e4-bd58-4bc0-9d5c-83ff0516810b)
 
 
