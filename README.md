@@ -12,6 +12,10 @@
   音源仅对洛雪音乐最新版有效
   请支持正版
 
+# 关于邮箱回复
+本版块是解析邮箱回复邮件的
+![屏幕截图 2025-04-19 102527](https://github.com/user-attachments/assets/5c31495c-76ff-467c-bacc-43c6617995cc)
+
 # 关于LX Music
 - [官网](https://lxmusic.toside.cn/)
 - [Win和Mac下载链接](https://github.com/lyswhut/lx-music-desktop?tab=readme-ov-file#readme)
