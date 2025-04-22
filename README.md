@@ -49,8 +49,9 @@
 3、本人不接受任何除音源发布者外的任何投诉信息，如需投诉请前往音源官网
 
 4、本人所作不触及法律界限，请不要散传谣言
-# Star星图
-[![Stargazers over time](https://starchart.cc/guoyue2010/lxmusic-.svg?background=%23FFFFFF&axis=%23333333&line=%23faff63)](https://starchart.cc/guoyue2010/lxmusic-)
 
 # 终言
 感谢你到我的github或网盘下载或查看音源，在不遇到各种因素阻扰时，我会不断进行音源的添加和更新，感谢支持！
+
+# Star星图
+[![Stargazers over time](https://starchart.cc/guoyue2010/lxmusic-.svg?background=%23FFFFFF&axis=%23333333&line=%23ffc163)](https://starchart.cc/guoyue2010/lxmusic-)
