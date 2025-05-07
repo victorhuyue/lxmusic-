@@ -59,4 +59,5 @@
 [![Stargazers over time](https://starchart.cc/guoyue2010/lxmusic-.svg?background=%23FFFFFF&axis=%23333333&line=%23ffc163)](https://starchart.cc/guoyue2010/lxmusic-)
 
 # 捐款码
-![d985ab0c-4845-4848-a7a5-4005efc1fb9e](https://github.com/user-attachments/assets/a94fa56b-351e-4480-9966-108ce7a5a99a)
+![5d44c9a1-107c-43b8-97b8-e428b46af74c](https://github.com/user-attachments/assets/ce72519b-abf5-4ed8-82e3-41029566dc8b)
+
