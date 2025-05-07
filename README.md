@@ -57,3 +57,6 @@
 
 # Star星图
 [![Stargazers over time](https://starchart.cc/guoyue2010/lxmusic-.svg?background=%23FFFFFF&axis=%23333333&line=%23ffc163)](https://starchart.cc/guoyue2010/lxmusic-)
+
+# 捐款码
+![d985ab0c-4845-4848-a7a5-4005efc1fb9e](https://github.com/user-attachments/assets/a94fa56b-351e-4480-9966-108ce7a5a99a)
