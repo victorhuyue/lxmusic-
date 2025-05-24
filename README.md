@@ -1,10 +1,10 @@
-# LX洛雪音乐音源（最新最全） <a href="https://github.com/guoyue2010/lxmusic-/releases"><img src="https://img.shields.io/github/release/guoyue2010/lxmusic-" alt="Release version"></a>
+# LX洛雪音乐音源（最新最全） <a href="https://bgithub.xyz/guoyue2010/lxmusic-/releases"><img src="https://img.shields.io/github/release/guoyue2010/lxmusic-" alt="Release version"></a>
 
 - 下载链接[https://github.com/guoyue2010/lxmusic-/releases](https://github.com/guoyue2010/lxmusic-/releases)
 
 - 国内用户下载优先前往[GitCode](https://gitcode.com/guoyue2010/lxmusic-)
 
-- 版本信息：<a href="https://github.com/guoyue2010/lxmusic-/releases"><img src="https://img.shields.io/github/release/guoyue2010/lxmusic-" alt="Release version"></a>
+- 版本信息：<a href="https://bgithub.xyz/guoyue2010/lxmusic-/releases"><img src="https://img.shields.io/github/release/guoyue2010/lxmusic-" alt="Release version"></a>
 
 请注意，自2025年3月起，所有网盘密码和解压密码请向[3300275727@qq.com](mailto:3300275727@qq.com)发送含”音源“二字的邮件。
 
@@ -41,7 +41,7 @@
 
       QQ群聊5：978183181
 
-入群密码请向[3300375727@qq.com](mailto:3300275727@qq.com)发送含音源二字的邮件
+入群密码请向[3300275727@qq.com](mailto:3300275727@qq.com)发送含音源二字的邮件
 
 # 免责声明
 1、本人提供的所有音源并非本人创作，所有音源请不要由于商业用途
