@@ -8,7 +8,7 @@
 
 - 请注意，自2025年3月起，所有网盘密码和解压密码请向[3300275727@qq.com](mailto:3300275727@qq.com)发送含”音源“二字的邮件。
 
-  查看可用音源请至[https://github.com/guoyue2010/LXyy/releases](https://github.com/guoyue2010/LXyy/releases)
+- 查看可用音源请至[https://github.com/guoyue2010/LXyy/releases](https://github.com/guoyue2010/LXyy/releases)
 
 > ----------------------------------------
   音源仅对洛雪音乐最新版有效
