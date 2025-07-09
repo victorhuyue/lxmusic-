@@ -28,8 +28,8 @@
 - [Android安卓下载链接](https://github.com/lyswhut/lx-music-mobile)
 - IOS或HarmonyOS Next：lxmusic开发者洛雪无痕已经说明软件不支持搭载ios系统的苹果（iPhone）手机或搭载HarmonyOS Next的华为手机
 
-# 联系作者
-方式1、邮箱联系，作者邮箱：[guoyue201010090816@outlook.com](mailto:guoyue201010090816@outlook.com)
+# 联系我
+方式1、邮箱联系，我的邮箱：[guoyue201010090816@outlook.com](mailto:guoyue201010090816@outlook.com)
 
 方式2、QQ群
 
