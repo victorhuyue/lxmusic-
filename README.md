@@ -63,5 +63,5 @@
 [![Stargazers over time](https://starchart.cc/guoyue2010/lxmusic-.svg?background=%23FFFFFF&axis=%23333333&line=%23ffc163)](https://starchart.cc/guoyue2010/lxmusic-)
 
 # 支持我
-爱发电：[https://afdian.tv/a/guoyue2010](https://afdian.tv/a/guoyue2010)
+爱发电：[https://afdian.tv/a/guoyue2010/plan](https://afdian.tv/a/guoyue2010/plan)
 
