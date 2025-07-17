@@ -62,7 +62,6 @@
 # Star星图
 [![Stargazers over time](https://starchart.cc/guoyue2010/lxmusic-.svg?background=%23FFFFFF&axis=%23333333&line=%23ffc163)](https://starchart.cc/guoyue2010/lxmusic-)
 
-# 捐款码
-![Collage_20250601_062843](https://github.com/user-attachments/assets/143a2db4-4fa9-4175-91fe-6135ea5d1be1)
-
+# 支持我
+爱发电：[https://afdian.tv/a/guoyue2010](https://afdian.tv/a/guoyue2010)
 
