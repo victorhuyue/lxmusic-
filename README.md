@@ -74,7 +74,7 @@
 [![Stargazers over time](https://starchart.cc/guoyue2010/lxmusic-.svg?background=%23FFFFFF&axis=%23333333&line=%23ffc163)](https://starchart.cc/guoyue2010/lxmusic-)
 
 # 支持我
-爱发电：[https://afdian.tv/a/guoyue2010/plan](https://afdian.tv/a/guoyue2010/plan)
+爱发电：[https://afdian.com/a/guoyue2010](https://afdian.com/a/guoyue2010)
 
 # 赞助人员名单公示
 ![afdian-7月-5粉丝](https://github.com/user-attachments/assets/ad58f396-ccb9-4a83-bf42-7b5794e85931)
