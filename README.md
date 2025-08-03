@@ -63,9 +63,9 @@
 5、赞助广告为第三方提供，所有有关赞助广告的信息请询问广告客服，本人拒绝所有有关广告的投诉信息
 
 # 赞助广告
-天降神卡！19元解锁235G流量，爽到飞起！全国通用，上门激活，还是本地号码，首月免费使用！选号自由，不受流量限制，爽到飞起!点击[这里](https://hy.yunhaoka.com/#/pages/micro_store/index?agent_id=59eb871e2cfd979e2210db56129c38e0)，官方卡免费包邮到家!
+[![A49D282543B7700612682C6955AD9246](https://github.com/user-attachments/assets/a33a652c-9244-4533-990d-2f8792559423)](https://hy.yunhaoka.com/#/pages/micro_store/index?agent_id=59eb871e2cfd979e2210db56129c38e0)
 
-售后客服：微信:muzran QQ：691083002  
+ 
 
 # 终言
 感谢你到我的github或网盘下载或查看音源，在不遇到各种因素阻扰时，我会不断进行音源的添加和更新，感谢支持！
