@@ -63,7 +63,8 @@
 5、赞助广告为第三方提供，所有有关赞助广告的信息请询问广告客服，本人拒绝所有有关广告的投诉信息
 
 # 赞助广告
-![A49D282543B7700612682C6955AD9246](https://github.com/user-attachments/assets/b81c378e-719c-41f1-acec-bd9bb69c38b4)
+![A49D282543B7700612682C6955AD9246](https://github.com/user-attachments/assets/d80b6792-b00a-47ea-b17a-83b14e01498d)
+
 
 # 终言
 感谢你到我的github或网盘下载或查看音源，在不遇到各种因素阻扰时，我会不断进行音源的添加和更新，感谢支持！
