@@ -7,7 +7,10 @@
 - 版本信息：<a href="https://bgithub.xyz/guoyue2010/lxmusic-/releases"><img src="https://img.shields.io/github/release/guoyue2010/lxmusic-" alt="Release version"></a>
 
 - 请注意，自2025年3月起，所有网盘密码和解压密码请向[3300275727@qq.com](mailto:3300275727@qq.com)发送含”音源“二字的邮件。
+
 - 查看可用音源请至[https://github.com/guoyue2010/LXyy/releases](https://github.com/guoyue2010/LXyy/releases)
+
+- 查看自制音源更新请看[https://github.com/guoyue2010/LXzizhiyuan](https://github.com/guoyue2010/LXzizhiyuan)
 
 > ----------------------------------------
   音源仅对洛雪音乐最新版有效
