@@ -31,9 +31,9 @@
 - IOS或HarmonyOS Next：lxmusic开发者洛雪无痕已经说明软件不支持搭载ios系统的苹果（iPhone）手机或搭载HarmonyOS Next的华为手机
 
 # 联系我
-方式1、邮箱联系，我的邮箱：[guoyue201010090816@outlook.com](mailto:guoyue201010090816@outlook.com)
+- 方式1、邮箱联系，我的邮箱：[guoyue201010090816@outlook.com](mailto:guoyue201010090816@outlook.com)
 
-方式2、QQ群
+- 方式2、QQ群
 
       QQ群聊1：704034242（已满）
     
@@ -52,6 +52,10 @@
 加入QQ群已改为机器人自动通过，具体验证方式请查看验证页面
 
 我的账号授权码013579，发送“授权码”三字到3300275727@qq.com可以查看我的其他网站的主页
+
+- 方式3
+TG(telegram)群组：https://t.me/+l-HytnCYcd0wYTFl
+
 
 # 免责声明
 1、本人所分享的音源未经允许禁止任何人二次转载
