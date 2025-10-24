@@ -4,7 +4,7 @@
 
 - 个人博客：[https://guoyue2010.top](https://guoyue2010.top)
 
-- 自2025年10月24日起终止对LX音源实行压缩包加密操作，并停止在Github和Gitcode进行音源小版本更新，音源更新现已迁至个人博客中，详情请见：[https://guoyue2010.top](https://guoyue2010.top)
+- 自2025年10月24日起我们终止对LX音源实行压缩包加密操作，并停止在Github和Gitcode进行音源小版本更新，音源更新现已迁至个人博客中，详情请见：[https://guoyue2010.top](https://guoyue2010.top)
 
 - 查看可用音源请至[https://guoyue2010.top/blog/4982705192416841728](https://guoyue2010.top/blog/4982705192416841728)
 
