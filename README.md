@@ -1,28 +1,18 @@
-# LX洛雪音乐音源（最新最全） <a href="https://bgithub.xyz/guoyue2010/lxmusic-/releases"><img src="https://img.shields.io/github/release/guoyue2010/lxmusic-" alt="Release version"></a>
+# LX洛雪音源音乐源
 
-- 下载链接[https://github.com/guoyue2010/lxmusic-/releases](https://github.com/guoyue2010/lxmusic-/releases)
+- 下载链接：[https://guoyue2010.top/blog/4983071998943956992](https://guoyue2010.top/blog/4983071998943956992)
 
-- 国内用户下载优先前往[GitCode](https://gitcode.com/guoyue2010/lxmusic-)
+- 个人博客：[https://guoyue2010.top](https://guoyue2010.top)
 
-- 版本信息：<a href="https://bgithub.xyz/guoyue2010/lxmusic-/releases"><img src="https://img.shields.io/github/release/guoyue2010/lxmusic-" alt="Release version"></a>
+- 自2025年10月24日起终止对LX音源实行压缩包加密操作，并停止在Github和Gitcode进行音源小版本更新，音源更新现已迁至个人博客中，详情请见：[https://guoyue2010.top](https://guoyue2010.top)
 
-- 请注意，自2025年3月起，所有网盘密码和解压密码请向[3300275727@qq.com](mailto:3300275727@qq.com)发送含”音源“二字的邮件。
-
-- 查看可用音源请至[https://github.com/guoyue2010/LXyy/releases](https://github.com/guoyue2010/LXyy/releases)
-
-- 查看自制音源更新请看[https://github.com/guoyue2010/LXzizhiyuan](https://github.com/guoyue2010/LXzizhiyuan)
+- 查看可用音源请至[https://guoyue2010.top/blog/4982705192416841728](https://guoyue2010.top/blog/4982705192416841728)
 
 > ----------------------------------------
-  音源仅对洛雪音乐最新版有效
+
+  分享的音源仅保证能在最新版本中使用
+  
   请支持正版
-
-# 关于邮箱回复
-本版块是解析邮箱回复邮件的
-![屏幕截图 2025-04-19 104841](https://github.com/user-attachments/assets/327cca57-7e16-4b19-9cfd-ec6072ac966b)
-
-![屏幕截图 2025-04-19 104749](https://github.com/user-attachments/assets/5e3716e4-bd58-4bc0-9d5c-83ff0516810b)
-
-
 
 # 关于LX Music
 - [官网](https://lxmusic.toside.cn/)
@@ -31,30 +21,32 @@
 - IOS或HarmonyOS Next：lxmusic开发者洛雪无痕已经说明软件不支持搭载ios系统的苹果（iPhone）手机或搭载HarmonyOS Next的华为手机
 
 # 联系我
-- 方式1、邮箱联系，我的邮箱：[3300275727@qq.com](mailto:3300275727@qq.com)
 
-- 方式2、QQ群
+-,1、QQ联系
+      
+      QQ群聊：704034242
 
-      QQ群聊1：704034242
+- 2、TG群组
 
-加入QQ群已改为机器人自动通过，具体验证方式请查看验证页面
+[https://t.me/+l-HytnCYcd0wYTFl](https://t.me/+l-HytnCYcd0wYTFl)
 
-我的账号授权码013579，发送“授权码”三字到3300275727@qq.com可以查看我的其他网站的主页
+- 3、邮箱
 
-- 方式3
-TG(telegram)群组：https://t.me/+l-HytnCYcd0wYTFl
+[3300275727@qq.com](mailto:3300275727@qq.com)
 
 
-# 免责声明
-1、本人所分享的音源未经允许禁止任何人二次转载
 
-2、使用音源时，请勿大批量下载音乐（被封号我不管）
+# 使用协议及免责声明
 
-3、为保证音源长期使用，请各位不要恶意举报
+1、音源仅限测试，我并无对音源所获取的音乐有所有权，所以请各位在24H内删除有关缓存
 
-4、对于因第三方音源违法事项，本人不担责
+2、对于因第三方音源违法事项，本人不担责
 
-5、广告为第三方提供，我不担责，并拒绝回答有关广告的疑问
+3、本人所分享的音源未经允许禁止任何人二次转载
+
+4、所有的付费音源严禁私下囤货或加价售卖！
+
+5、博客中的《惠民项目》仅是为各位提供一些性价比高的资源方案，或者是对他人项目的宣传，我无法为你解答有关疑问，更不能单独为你下架资源，请谅解。
 
 # 赞助广告
 **🚀 超值流量卡推荐 | 全国通用流量 | 超低月租 | 即充即用**  
@@ -67,16 +59,16 @@ TG(telegram)群组：https://t.me/+l-HytnCYcd0wYTFl
   </a>
 </center>
 
-
-# 终言
-感谢你到我的github或网盘下载或查看音源，在不遇到各种因素阻扰时，我会不断进行音源的添加和更新，感谢支持！
-
 # Star星图
 [![Stargazers over time](https://starchart.cc/guoyue2010/lxmusic-.svg?background=%23FFFFFF&axis=%23333333&line=%23ffc163)](https://starchart.cc/guoyue2010/lxmusic-)
+
+# 终言
+社会在不断变革，此项目终有完结的一天，在不遇到各种因素阻扰时，我会不断进行音源的添加和更新，感谢支持！
 
 # 支持我
 爱发电：[https://afdian.com/a/guoyue2010](https://afdian.com/a/guoyue2010)
 
-# 赞助人员名单公示
-![afdian-9月-151粉丝](https://github.com/user-attachments/assets/b2ebf183-cb2c-4325-9bf1-5df25acd2600)
 
+
+
+      
