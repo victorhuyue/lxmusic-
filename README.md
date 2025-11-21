@@ -1,12 +1,10 @@
 # LX洛雪音源音乐源
 
-- 下载链接：[https://guoyue2010.top/blog/4983071998943956992](https://guoyue2010.top/blog/4983071998943956992)
+- 下载链接：[https://guoyue2010.top/blog/4991042589772746752](https://guoyue2010.top/blog/4991042589772746752)
 
 - 个人博客：[https://guoyue2010.top](https://guoyue2010.top)
 
 - 自2025年10月24日起我们终止对LX音源实行压缩包加密操作，并停止在Github和Gitcode进行音源小版本更新，音源更新现已迁至个人博客中，详情请见：[https://guoyue2010.top/blog/4984352519183405056](https://guoyue2010.top/blog/4984352519183405056)
-
-- 查看可用音源请至[https://guoyue2010.top/blog/4982705192416841728](https://guoyue2010.top/blog/4982705192416841728)
 
 > ----------------------------------------
 
@@ -30,11 +28,11 @@
 
 [https://t.me/+l-HytnCYcd0wYTFl](https://t.me/+l-HytnCYcd0wYTFl)
 
-- 3、邮箱
+- 3、工单
 
-[3300275727@qq.com](mailto:3300275727@qq.com)
+[https://gd.xiagua.top/](https://gd.xiagua.top/)
 
-
+- 邮箱联系方式与25年11月21日终止提供服务，请悉知。
 
 # 使用协议及免责声明
 
