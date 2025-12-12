@@ -67,7 +67,7 @@
 </div>
 <h3>价格：</h3>
 
-![](//wz.guoyue2010.top/1.jpg)
+![](https:////wz.guoyue2010.top/1.jpg)
 
 
 # Star星图
