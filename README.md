@@ -47,6 +47,9 @@
 5、博客中的《惠民项目》仅是为各位提供一些性价比高的资源方案，或者是对他人项目的宣传，我无法为你解答有关疑问，更不能单独为你下架资源，请谅解。
 
 # 赞助广告
+
+- 1、
+
 **🚀 超值流量卡推荐 | 全国通用流量 | 超低月租 | 即充即用**  
 
 [![流量卡广告图](http://imagebed.sbsb.life/%E6%B5%81%E9%87%8F%E5%8D%A1%E6%A8%AA%E5%B9%85.jpg)](https://hy.yunhaoka.com/#/pages/micro_store/index?agent_id=59eb871e2cfd979e2210db56129c38e0)  
@@ -56,6 +59,16 @@
     <strong>🔥 点击立即办理</strong>
   </a>
 </center>
+
+- 2、
+
+  <div style="text-align: center;">
+   <h2><a href="https://sadidc.com/">服务器推荐：伤心的云，点此进入官网</a></h2>
+</div>
+<h3>价格：</h3>
+
+![](//wz.guoyue2010.top/1.jpg)
+
 
 # Star星图
 [![Stargazers over time](https://starchart.cc/guoyue2010/lxmusic-.svg?background=%23FFFFFF&axis=%23333333&line=%23ffc163)](https://starchart.cc/guoyue2010/lxmusic-)
