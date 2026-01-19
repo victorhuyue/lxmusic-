@@ -112,8 +112,8 @@
 赞助码：
 
 <center>
-  <a href="[https://wz.guoyue2010.top/zanzhu.jpg](https://wz.guoyue2010.top/zanzhu.jpg)">
-    <strong></strong>
+  <a href="https://wz.guoyue2010.top/zanzhu.jpg">
+    <strong>🔥 点击立即办理</strong>
   </a>
 </center>
 
