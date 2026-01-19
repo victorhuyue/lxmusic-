@@ -1,10 +1,12 @@
-# LX洛雪音源音乐源
+# 🎵LX&澜音音乐源-Github发布页面
 
-- 下载链接：[https://guoyue2010.top/blog/4991042589772746752](https://guoyue2010.top/blog/4991042589772746752)
+- 当前维护：Macrohard0001；仓库所有：guoyue2010
+
+- 更新查看：[https://github.com/guoyue2010/lxmusic-/releases](https://github.com/guoyue2010/lxmusic-/releases)
+
+- 下载链接：[https://yy.guoyue2010.jkun.cf](https://yy.guoyue2010.jkun.cf)
 
 - 个人博客：[https://guoyue2010.top](https://guoyue2010.top)
-
-- 自2025年10月24日起我们终止对LX音源实行压缩包加密操作，并停止在Github和Gitcode进行音源小版本更新，音源更新现已迁至个人博客中，详情请见：[https://guoyue2010.top/blog/4984352519183405056](https://guoyue2010.top/blog/4984352519183405056)
 
 > ----------------------------------------
 
@@ -12,44 +14,84 @@
   
   请支持正版
 
-# 关于LX Music
+## 📜软件下载
+
+### 关于LX Music
 - [官网](https://lxmusic.toside.cn/)
-- [Win和Mac下载链接](https://github.com/lyswhut/lx-music-desktop?tab=readme-ov-file#readme)
-- [Android安卓下载链接](https://github.com/lyswhut/lx-music-mobile)
-- IOS或HarmonyOS Next：lxmusic开发者洛雪无痕已经说明软件不支持搭载ios系统的苹果（iPhone）手机或搭载HarmonyOS Next的华为手机
+- [下载链接](https://github.com/lyswhut/lx-music-desktop/releases/latest)
 
-# 联系我
+### 关于澜音
+- [官网](https://ceru.docs.shiqianjiang.cn/)
+- [下载链接](https://ceru.shiqianjiang.cn/#download)
 
-- 1、QQ联系
+## 🎯联系我
+
+### 1、QQ联系
       
       QQ群聊：704034242
 
-- 2、TG群组
+### 2、TG群组
 
 [https://t.me/+l-HytnCYcd0wYTFl](https://t.me/+l-HytnCYcd0wYTFl)
 
-- 3、工单
+## 📜 使用协议及免责声明
 
-[https://gd.xiagua.top/](https://gd.xiagua.top/)
+1、音源仅限测试，请各位在24H内删除有关缓存
 
-- 邮箱联系方式与25年11月21日终止提供服务，请悉知。
+2、所有付费音源禁止二次转发卡密，加价倒卖
 
-# 使用协议及免责声明
+## 💳 付费音源服务
 
-1、音源仅限测试，我并无对音源所获取的音乐有所有权，所以请各位在24H内删除有关缓存
+> **重要提示**：以下均为第三方提供的付费音源服务，非本项目开发维护。请谨慎购买，产生的任何后果与本项目无关。
 
-2、对于因第三方音源违法事项，本人不担责
+### 🎧 聆川音源 (by guoyue2010)
 
-3、本人所分享的音源未经允许禁止任何人二次转载
+**价格方案**：
+- 🏆 永久：10元
+- 📅 年卡：4元
+- 📅 月卡：3元  
+- 📅 周卡：1.5元
+- 📅 天卡：0.5元
 
-4、所有的付费音源严禁私下囤货或加价售卖！
+**导入链接**：
+- 主链接：`https://lc.guoyue2010.top/script/lx?key=你的卡密`
+- 备用链接：`https://lx.xiagua.top/script/lx?key=你的卡密`
 
-5、博客中的《惠民项目》仅是为各位提供一些性价比高的资源方案，或者是对他人项目的宣传，我无法为你解答有关疑问，更不能单独为你下架资源，请谅解。
+### 🎵 新澜音源 (by 时迁酱)
 
-# 赞助广告
+**价格方案**：
+- 🏆 永久：20元
+- 📅 年卡：5元
+- 📅 半年卡：3元
+- 📅 月卡：2元
+- 📅 周卡1元
+- 📅 天卡0.8元
 
-- 1、
+**导入链接**：
+- `https://source.shiqianjiang.cn/api/script/lx?key=你的卡密`
 
+### 🛒 统一购买平台
+
+- 🌐 https://shop.guoyue2010.top
+- 🌐 https://shop.shiqianjiang.cn
+- 详细信息请见https://guoyue2010.top/blog/5007307323673153536
+
+### ⭐ IKUN 音源
+
+**价格方案**：
+- 🏆 永久：20元
+- 📅 年卡：15元
+- 📅 月卡：10元  
+
+**🛒官方购买**：https://shop.ikunshare.com/
+
+**导入方式**
+- 发布页面是(这个)[https://c.wwwweb.top]，你把卡密怼进去就行了
+- 注意将“卡密”换成public_source或直接删掉“?key=卡密”可得公益版音源
+- http://api.ikunshare.com/script?key=卡密
+- 备用域名：music.ikun0014.top
+
+## 赞助广告
 **🚀 超值流量卡推荐 | 全国通用流量 | 超低月租 | 即充即用**  
 
 [![流量卡广告图](https://wz.guoyue2010.top/gg.jpg)](https://hy.yunhaoka.com/#/pages/micro_store/index?agent_id=59eb871e2cfd979e2210db56129c38e0)  
@@ -60,24 +102,21 @@
   </a>
 </center>
 
-- 2、
-
-  <div style="text-align: center;">
-   <h2><a href="https://sadidc.com/">服务器推荐：伤心的云，点此进入官网</a></h2>
-</div>
-<h3>价格：</h3>
-
-[![](https://wz.guoyue2010.top/1.jpg)](https://sadidc.com/)
-
-
-# Star星图
+## Star星图
 [![Stargazers over time](https://starchart.cc/guoyue2010/lxmusic-.svg?background=%23FFFFFF&axis=%23333333&line=%23ffc163)](https://starchart.cc/guoyue2010/lxmusic-)
 
-# 终言
+## 终言
 社会在不断变革，此项目终有完结的一天，在不遇到各种因素阻扰时，我会不断进行音源的添加和更新，感谢支持！
 
 # 支持我
-爱发电：[https://afdian.com/a/guoyue2010](https://afdian.com/a/guoyue2010)
+赞助码：
+
+<center>
+  <a href="[https://hy.yunhaoka.com/#/pages/micro_store/index?agent_id=59eb871e2cfd979e2210db56129c38e0](https://wz.guoyue2010.top/zanzhu.jpg)">
+    <strong></strong>
+  </a>
+</center>
+
 
 
 
