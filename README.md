@@ -109,13 +109,7 @@
 社会在不断变革，此项目终有完结的一天，在不遇到各种因素阻扰时，我会不断进行音源的添加和更新，感谢支持！
 
 # 支持我
-赞助码：
-
-<center>
-  <a href="https://wz.guoyue2010.top/zanzhu.jpg">
-    <strong>🔥 点击立即办理</strong>
-  </a>
-</center>
+赞助码：[![赞助图](https://wz.guoyue2010.top/zanzhu.jpg)]
 
 
 
