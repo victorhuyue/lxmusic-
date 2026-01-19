@@ -112,7 +112,7 @@
 赞助码：
 
 <center>
-  <a href="[https://hy.yunhaoka.com/#/pages/micro_store/index?agent_id=59eb871e2cfd979e2210db56129c38e0](https://wz.guoyue2010.top/zanzhu.jpg)">
+  <a href="[https://wz.guoyue2010.top/zanzhu.jpg](https://wz.guoyue2010.top/zanzhu.jpg)">
     <strong></strong>
   </a>
 </center>
