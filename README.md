@@ -86,7 +86,7 @@
 **🛒官方购买**：https://shop.ikunshare.com/
 
 **导入方式**
-- 发布页面是(这个)[https://c.wwwweb.top]，你把卡密怼进去就行了
+- 发布页面是[这个](https://c.wwwweb.top) ，你把卡密怼进去就行了
 - 注意将“卡密”换成public_source或直接删掉“?key=卡密”可得公益版音源
 - http://api.ikunshare.com/script?key=卡密
 - 备用域名：music.ikun0014.top
