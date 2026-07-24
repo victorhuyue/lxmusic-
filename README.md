@@ -2,7 +2,7 @@
 
 - 仓库所有人：guoyue2010
 
-- 运维人员名单：Macrohard0001、houbowen0510、amd3600、CloudWhisper、largefox
+- 运维人员名单：guoyue2010、Macrohard0001、houbowen0510、amd3600、CloudWhisper、largefox
 
 - 贡献人员：Matthew Harris  
 
