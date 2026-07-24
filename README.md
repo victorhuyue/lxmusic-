@@ -1,6 +1,10 @@
 # 🎵LX&澜音音乐源-Github发布页面
 
-- 当前维护：Macrohard0001；仓库所有：guoyue2010
+- 仓库所有人：guoyue2010
+
+- 运维人员名单：Macrohard0001、houbowen0510、amd3600、CloudWhisper、largefox
+
+- 贡献人员：Matthew Harris  
 
 - 更新查看：[https://github.com/guoyue2010/lxmusic-/releases](https://github.com/guoyue2010/lxmusic-/releases)
 
