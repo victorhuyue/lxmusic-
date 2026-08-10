@@ -98,9 +98,17 @@
   <img src="https://img.shields.io/github/watchers/guoyue2010/lxmusic-?style=for-the-badge&color=ffc163&label=Watchers" alt="GitHub Watchers">
 </p>
 
+### 📈 Star 增长趋势
+<p align="center">
+  <a href="https://star-history.com/#guoyue2010/lxmusic-&Date">
+    <img src="https://api.star-history.com/svg?repos=guoyue2010/lxmusic-&type=Date" alt="Star History" width="700">
+  </a>
+</p>
+
+### 🖼️ 仓库概览
 <p align="center">
   <a href="https://github.com/guoyue2010/lxmusic-">
-    <img src="https://github-readme-stats.vercel.app/api?username=guoyue2010&show_icons=true&theme=default&hide_border=true&title_color=ffc163&icon_color=ffc163" alt="GitHub Stats">
+    <img src="https://opengraph.githubassets.com/1/guoyue2010/lxmusic-" alt="GitHub Repo Card" width="700">
   </a>
 </p>
 
