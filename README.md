@@ -99,16 +99,15 @@
 </p>
 
 ### 📈 Star 增长趋势
-<p align="center">
-  <a href="https://star-history.com/#guoyue2010/lxmusic-&Date">
-    <img src="https://api.star-history.com/svg?repos=guoyue2010/lxmusic-&type=Date" alt="Star History" width="700">
-  </a>
-</p>
+## Star History
 
-### 🖼️ 仓库概览
-<p align="center">
-  <a href="https://github.com/guoyue2010/lxmusic-">
-    <img src="https://opengraph.githubassets.com/1/guoyue2010/lxmusic-" alt="GitHub Repo Card" width="700">
+<a href="https://www.star-history.com/?repos=guoyue2010%2Flxmusic-&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=guoyue2010/lxmusic-&type=date&theme=dark&legend=top-left&sealed_token=eYKkVFIQML4dkTK7bkwDjZl0grcInft-buBJHw4syHYZxpIcBRsJFJayMIzv8BnwsFkTP1leMG71QOdD45-B5lZ0xnsCOZrg_y7wogkSpOu33gwkb-tMxw" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=guoyue2010/lxmusic-&type=date&legend=top-left&sealed_token=eYKkVFIQML4dkTK7bkwDjZl0grcInft-buBJHw4syHYZxpIcBRsJFJayMIzv8BnwsFkTP1leMG71QOdD45-B5lZ0xnsCOZrg_y7wogkSpOu33gwkb-tMxw" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=guoyue2010/lxmusic-&type=date&legend=top-left&sealed_token=eYKkVFIQML4dkTK7bkwDjZl0grcInft-buBJHw4syHYZxpIcBRsJFJayMIzv8BnwsFkTP1leMG71QOdD45-B5lZ0xnsCOZrg_y7wogkSpOu33gwkb-tMxw" />
+ </picture>
+</a>
   </a>
 </p>
 
