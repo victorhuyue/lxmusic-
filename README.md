@@ -2,7 +2,7 @@
 
 - 仓库所有人：guoyue2010
 
-- 运维人员名单：guoyue2010、Macrohard0001、houbowen0510、amd3600、CloudWhisper、largefox
+- 运维人员名单：guoyue2010、Macrohard0001、houbowen0510、amd3600、Miao-moe、largefox
 
 - 贡献人员：Matthew Harris  
 
@@ -15,7 +15,7 @@
 > ----------------------------------------
 
   分享的音源仅保证能在最新版本中使用
-  
+
   请支持正版
 
 ## 📜软件下载
@@ -31,7 +31,7 @@
 ## 🎯联系我
 
 ### 1、QQ联系
-      
+
       QQ群聊：704034242
 
 ### 2、TG群组
@@ -90,17 +90,22 @@
   </a>
 </center>
 
-## Star星图
-[![Stargazers over time](https://starchart.cc/guoyue2010/lxmusic-.svg?background=%23FFFFFF&axis=%23333333&line=%23ffc163)](https://starchart.cc/guoyue2010/lxmusic-)
+## ⭐ 项目统计
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/guoyue2010/lxmusic-?style=for-the-badge&color=ffc163&label=Stars" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/guoyue2010/lxmusic-?style=for-the-badge&color=ffc163&label=Forks" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/watchers/guoyue2010/lxmusic-?style=for-the-badge&color=ffc163&label=Watchers" alt="GitHub Watchers">
+</p>
+
+<p align="center">
+  <a href="https://github.com/guoyue2010/lxmusic-">
+    <img src="https://github-readme-stats.vercel.app/api?username=guoyue2010&show_icons=true&theme=default&hide_border=true&title_color=ffc163&icon_color=ffc163" alt="GitHub Stats">
+  </a>
+</p>
 
 ## 终言
 社会在不断变革，此项目终有完结的一天，在不遇到各种因素阻扰时，我会不断进行音源的添加和更新，感谢支持！
 
 # 支持我
 支持的话直接买个聆澜音源就可以啦
-
-
-
-
-
-      
